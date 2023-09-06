@@ -13,7 +13,7 @@ EliteStrap is a Bootstrap 4 admin theme designed to bring simplicity and eleganc
 
 ## Installation
 
-
+Clone Git or download https://github.com/dreamstudio-satheesh/EliteStrap/archive/refs/heads/master.zip
 
 
 
