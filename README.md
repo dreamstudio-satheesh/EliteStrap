@@ -13,8 +13,7 @@ EliteStrap is a Bootstrap 4 admin theme designed to bring simplicity and eleganc
 
 ## Installation
 
-```bash
-# Add installation steps here
+
 
 
 
