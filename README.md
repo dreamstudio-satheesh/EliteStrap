@@ -29,7 +29,7 @@ If you have questions or need help integrating the product please [contact us](m
 <!-- licence -->
 ## License
 
-Copyright (c) 202 - Present, Designed & Developed by [Dream Host](https://dreamhost.in)
+Copyright (c) 2024 - Present, Designed & Developed by [Dream Host](https://dreamhost.in)
 
 **Code License:** Released under the [MIT](https://github.com/dreamstudio-satheesh/EliteStrap/blob/master/LICENSE) license.
 
