@@ -19,7 +19,7 @@ Clone Git or download https://github.com/dreamstudio-satheesh/EliteStrap/archive
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the **Sleek Dashboard**. Please Search [existing issues](https://github.com/dreamstudio-satheesh/EliteStrap/issues). It’s possible someone has already reported the same problem.
+We use GitHub Issues as the official bug tracker for the **EliteStrap Dashboard**. Please Search [existing issues](https://github.com/dreamstudio-satheesh/EliteStrap/issues). It’s possible someone has already reported the same problem.
 If your problem or idea is not addressed yet, [open a new issue](https://github.com/dreamstudio-satheesh/EliteStrap/issues)
 
 ## Technical Support or Questions
